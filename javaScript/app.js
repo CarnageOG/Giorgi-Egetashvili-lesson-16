@@ -13,3 +13,10 @@ book.yearPublished = 1935;
 console.log("Updated book object:", book);
 
 
+
+// 4.////////////////////////////////
+const products = [
+    { productName: "Laptop", price: 1200, isAvailable: true },
+    { productName: "Smartphone", price: 800, isAvailable: false },
+    { productName: "Tablet", price: 500, isAvailable: true }
+];
