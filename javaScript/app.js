@@ -1,4 +1,11 @@
-// 2.////////////////////////////////
+// 1.///////////////////////////////
+const numbers = [5, 9, 14, 23, 10]
+console.log(numbers[0] + numbers[1] + numbers[2] + numbers[3] + numbers[4]);
+console.log((numbers[0] + numbers[1] + numbers[2] + numbers[3] + numbers[4]) / 5)
+
+
+
+// 2.///////////////////////////////
 const book = {
     title: "The Book of Five Rings",
     author: "Miyamoto Musashi",
@@ -20,3 +27,4 @@ const products = [
     { productName: "Smartphone", price: 800, isAvailable: false },
     { productName: "Tablet", price: 500, isAvailable: true }
 ];
+console.log(products)
